@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_8.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_9.svg?raw=true)
 # Практическое задание на создание HTML-страниц.
            Задание: Создайте контейнер для фотографии (фото можете использовать которое прикреплено к задании). 
            А фотографии создайте зацикленную анимацию при которой фото будет увеличиваться и обесцвечиваться. 
